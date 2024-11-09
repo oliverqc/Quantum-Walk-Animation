@@ -5,7 +5,7 @@ The system utilizes a four-vertex graph where each vertex connects to two others
 
 In this context, the walker represents a sequence of classical images, with each vertex corresponding to a different animation state. For example, when animating a cat, vertex 1 might represent a happy state while vertex 2 represents a sad state, and so on. This concept could be expanded to develop complex geometries where features like ears, eyes, or paws are mapped to sheets of qubits, allowing entangled edges to influence the overall animation.
 
-Currently, the implementation uses a simple four-vertex cycle to determine the states of a sushi chef character. While basic, this demonstrates the potential for quantum-driven animation techniques.
+Currently, the implementation uses a simple four-vertex cycle to determine the states of a sushi chef character which was generated using kling ai. While basic, this demonstrates the potential for quantum-driven animation techniques.
 
 
 https://github.com/user-attachments/assets/a746e264-7948-4c23-982e-ec8d7be5aa3c
