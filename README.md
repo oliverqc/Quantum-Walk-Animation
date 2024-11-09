@@ -8,5 +8,5 @@ In this context, the walker represents a sequence of classical images, with each
 Currently, the implementation uses a simple four-vertex cycle to determine the states of a sushi chef character which was generated using kling ai. While basic, this demonstrates the potential for quantum-driven animation techniques.
 
 
-https://github.com/user-attachments/assets/a746e264-7948-4c23-982e-ec8d7be5aa3c
+https://github.com/user-attachments/assets/7d3f3fba-9ae4-464e-a92c-bfe38d684c3b
 
